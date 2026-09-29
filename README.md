@@ -329,7 +329,7 @@ ENGINE = InnoDB;
 
 # Задание 3
 
-Спроектирована база данных `mydb` в MySQL Workbench и выгружена на сервер MySQL через **Database → Forward Engineer**.
+Создана база данных в MySQL Workbench и выгружена на сервер MySQL через **Database → Forward Engineer**.
 
 ## Результат Forward Engineer
 ![Forward Engineer](lr2-3.png)
