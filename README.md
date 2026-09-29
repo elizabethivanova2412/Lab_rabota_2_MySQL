@@ -325,13 +325,3 @@ CREATE TABLE IF NOT EXISTS `mydb`.`orders` (
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
 ```
-
----
-
-# Задание 3
-
-В MySQL Workbench выполнена команда **Database → Forward Engineer…**. Подключение — к локальному серверу MySQL 8.4 (`127.0.0.1:3306`). Выбраны все объекты модели, запущено выполнение скрипта на сервере.
-
-Скрипт выполнен успешно: создана схема `mydb` и все семь таблиц с ключами и связями.
-
-![Успешное выполнение Forward Engineer](lr2-3.png)
